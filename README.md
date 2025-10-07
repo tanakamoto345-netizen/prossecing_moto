@@ -1,4 +1,8 @@
-# Processing課題：3Dプレイヤー移動
+# 課題タイトル：3Dプレイヤー移動
+
+#学籍番号・氏名
+・学籍番号　2501014
+・氏名　田中望斗
 
 ## 📁 ファイル名
 `sketch_251007b.pde`
@@ -58,4 +62,5 @@ void keyPressed() {
   if (key == ' ') playerY -= 10;     // ジャンプ
   if (keyCode == SHIFT) playerY += 10; // しゃがみ
 }
+##スクリーンショット
 
